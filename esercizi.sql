@@ -1,4 +1,4 @@
--- riga per generare un conflitto ...
+-- riga per generare un conflitto prova
  
 --2 All'interno del database crea una una tabella "ordine"
 CREATE TABLE "ordine" (id INTEGER NOT NULL, nome_pizza varchar(15), nome_cliente varchar(30), data_ordine timestamp, totale_ordine decimal);
